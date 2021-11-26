@@ -1,0 +1,10 @@
+{
+  "exclude": [
+    "bazel-bin",
+    "bazel-gen",
+    "bazel-out",
+    "bazel-src",
+    "bazel-testlogs"
+  ],
+  "pythonVersion": "3.9"
+}
