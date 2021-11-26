@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+package idl.foo;
+
+message Bar {
+  uint64 id = 1;
+}
